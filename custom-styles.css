@@ -1,0 +1,49 @@
+
+body {
+  padding-top: 54px;
+  background-color: #b4a08d;
+}
+
+.welcome {
+  margin-top: 3em;
+}
+
+.homepage-header{
+  background-color: #c2b7b2;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.footer {
+  background-color: #6e745d;
+  width: 100%
+}
+
+.card {
+  height: 100%;
+}
+
+button {
+  background-color: darkolivegreen;
+}
+
+.btn-primary {
+  background-color: darkolivegreen;
+  border-color: darkolivegreen; 
+}
+
+.about-me-background {
+  background-color: #c2b7b2;
+}
+
+.background-nav {
+  background-color: #6e745d;
+}
+
+/*!
+  * Copyright 2018 Trilogy Education
+  */
